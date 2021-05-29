@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "tiempo": "Autónomo",
+        "description":"Wobble en la zona correcta",
+        "value": 0,
+        "max": 1,
+        "contador": 0,
+        "points": 15
+    },
+    {
+        "id": 2,
+        "tiempo": "Autónomo",
+        "description":"Estacionarse en la línea de tiro",
+        "value": 0,
+        "max": 1,
+        "contador": 0,
+        "points": 5
+    },
+    {
+        "id": 3,
+        "tiempo": "Autónomo",
+        "description": "Anillo(s) en la parte baja",
+        "value": 0,
+        "max": 3,
+        "contador": 0,
+        "points": 3
+    },
+    {
+        "id": 4,
+        "tiempo": "Autónomo",
+        "description": "Anillo(s) en la parte media",
+        "value": 0,
+        "max": 3,
+        "contador": 0,
+        "points": 6
+    },
+    {
+        "id": 5,
+        "tiempo": "Autónomo",
+        "description": "Anillo(s) en la parte alta",
+        "value": 0,
+        "max": 3,
+        "contador": 0,
+        "points": 12
+    },
+    {
+        "id": 6,
+        "tiempo": "Autónomo",
+        "description": "Tirar un powershot target",
+        "value": 0,
+        "max": 3,
+        "contador": 0,
+        "points": 15
+    },
+    {
+        "id": 7,
+        "tiempo": "Tele Op",
+        "description": "Anillo(s) en la parte baja",
+        "value": 0,
+        "max": 20,
+        "contador": 0,
+        "points": 2
+    },
+    {
+        "id": 8,
+        "tiempo": "Tele Op",
+        "description": "Anillo(s) en la parte media",
+        "value": 0,
+        "max": 20,
+        "contador": 0,
+        "points": 4
+    },
+    {
+        "id": 9,
+        "tiempo": "Tele Op",
+        "description": "Anillo(s) en la parte alta",
+        "value": 0,
+        "max": 20,
+        "contador": 0,
+        "points": 6
+    },
+    {
+        "id": 10,
+        "tiempo": "Endgame",
+        "description": "Devolver Wobble a línea de inicio",
+        "value": 0,
+        "max": 1,
+        "contador": 0,
+        "points": 5
+    },
+    {
+        "id":11,
+        "tiempo": "Endgame",
+        "description": "Anillo(s) en el Wobble",
+        "value": 0,
+        "max": 5,
+        "contador": 0,
+        "points": 5
+    },
+    {
+        "id": 12,
+        "tiempo": "Endgame",
+        "description": "Levantar Wobble afuera",
+        "value": 0,
+        "max": 1,
+        "contador": 0,
+        "points": 20
+    },
+    {
+        "id": 13,
+        "tiempo": "Endgame",
+        "description": "Tirar un powershot target",
+        "value": 0,
+        "max": 3,
+        "contador": 0,
+        "points": 15
+    }
+]
